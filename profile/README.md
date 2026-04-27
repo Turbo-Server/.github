@@ -10,7 +10,7 @@ A cross-platform, high-performance HTTP web server with a real-time, visual mana
 
 Websites: [https://turbo.okzgn.com](https://turbo.okzgn.com), [https://turbo-server.github.io](https://turbo-server.github.io)
 
-Github: [https://github.com/okzgn/turbo-go](https://github.com/okzgn/turbo-go)
+Github (open-source, releases): [https://github.com/okzgn/turbo-go](https://github.com/okzgn/turbo-go)
 
 ---
 
