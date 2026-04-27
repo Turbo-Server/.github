@@ -8,7 +8,7 @@ A cross-platform, high-performance HTTP web server with a real-time, visual mana
 
 ---
 
-Website: [https://turbo.okzgn.com](https://turbo.okzgn.com), [https://turbo-server.github.io](https://turbo-server.github.io)
+Websites: [https://turbo.okzgn.com](https://turbo.okzgn.com), [https://turbo-server.github.io](https://turbo-server.github.io)
 
 Github: [https://github.com/okzgn/turbo-go](https://github.com/okzgn/turbo-go)
 
